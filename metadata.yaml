@@ -1,0 +1,30 @@
+_repo: To-Each-His-Star_31355
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31355-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Walton, Bryce
+    alias: O'Hara, Kenneth
+    birthdate: 1918
+    deathdate: 1988
+    gutenberg_agent_id: '33100'
+    url: http://www.gutenberg.org/2009/agents/33100
+    wikipedia: http://en.wikipedia.org/wiki/Bryce_Walton
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31355'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: To Each His Star
+url: http://www.gutenberg.org/ebooks/31355
